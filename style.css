@@ -553,10 +553,9 @@ text-align: left;
 .cl{
     gap: 150px;
 }
-.mains{
-    width: 500px;
-    margin-right: 20px;
-    overflow-x: hidden;
-}
 
+.childA{
+    color: aquamarine;
+    margin-top: 430px;
+}
 }
