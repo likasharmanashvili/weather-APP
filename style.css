@@ -439,9 +439,6 @@ text-align: center;
 
 
 @media(width > 1000px) {
-    .mainC{
-        margin-left: -200px;
-    }
 
     .mainCo{
         margin-left: 1000px;
@@ -554,6 +551,9 @@ text-align: left;
 }
 .cl{
     gap: 150px;
+}
+.mains{
+    width: 500px;
 }
 
 }
