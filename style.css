@@ -273,6 +273,9 @@ body{
 .cl{
     gap: 150px;
 }
+.cl{
+    gap: 200px;
+}
 } 
 
 
@@ -433,6 +436,9 @@ text-align: center;
     .cl{
         gap: 150px;
     }
+    .cl{
+        gap: 200px;
+    }
 }
 
 
@@ -557,5 +563,8 @@ text-align: left;
 .childA{
     
     margin-top: 430px;
+}
+.cl{
+    gap: 200px;
 }
 }
